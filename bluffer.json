@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "questionText": "Insanity: doing the same thing over and over again and expecting <BLANK> results. Albert Einstein.",
+      "realAnswer": "different"
+    },
+    {
+      "questionText": "A fanatic is one who can't change his <BLANK> and won't change the subject. Winston Churchill.",
+      "realAnswer": "mind"
+    },
+	{
+      "questionText": "<BLANK> is the best provision for the journey to old age. Aristotle",
+      "realAnswer": "Education"
+    },
+	{
+      "questionText": "What is the value of 12 in binary?",
+      "realAnswer": "1100"
+    },
+	{
+      "questionText": "Who was the first prime-minister of Israel?",
+      "realAnswer": "David Ben-Gurion"
+    },
+	{
+      "questionText": "What is the chemical formula of Glucose?",
+      "realAnswer": "c6h12o6"
+    },
+	{
+      "questionText": "How many ATP produces in Glycolyses?",
+      "realAnswer": "36"
+    }	
+  ]
+}
