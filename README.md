@@ -1,4 +1,4 @@
-# Details
+# Info
 Client-server trivia game.
 The game is text-based. 
 
